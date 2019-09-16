@@ -39,10 +39,14 @@
 
 // The reversed order of the input is 0 1 2 1.
 
-function reverse(array, len){
-  for(var i = 0; i < len/2; i++) {
-    let temp = array[i];
-    array[i] = array[len-i];
-    array[len-i] = temp;
+static void main(int args, char[] argv) {
+  int n = argv[0];
+  int array = argv[1];
+
+  for(int i = 0; i < n/2; i++){
+    var temp = array[i];  
+    array[n-i] = array[i];
+    array[i] = temp;
   }
+  Console.log(array);
 }
