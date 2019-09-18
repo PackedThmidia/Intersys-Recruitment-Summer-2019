@@ -1,0 +1,11 @@
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\bin\Debug\netcoreapp2.1\Common_Digit.deps.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\bin\Debug\netcoreapp2.1\Common_Digit.runtimeconfig.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\bin\Debug\netcoreapp2.1\Common_Digit.runtimeconfig.dev.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\bin\Debug\netcoreapp2.1\Common_Digit.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\bin\Debug\netcoreapp2.1\Common_Digit.pdb
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\obj\Debug\netcoreapp2.1\Common_Digit.csprojAssemblyReference.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\obj\Debug\netcoreapp2.1\Common_Digit.csproj.CoreCompileInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\obj\Debug\netcoreapp2.1\Common_Digit.AssemblyInfoInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\obj\Debug\netcoreapp2.1\Common_Digit.AssemblyInfo.cs
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\obj\Debug\netcoreapp2.1\Common_Digit.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_8_Common_Digit\Common_Digit\Common_Digit\obj\Debug\netcoreapp2.1\Common_Digit.pdb

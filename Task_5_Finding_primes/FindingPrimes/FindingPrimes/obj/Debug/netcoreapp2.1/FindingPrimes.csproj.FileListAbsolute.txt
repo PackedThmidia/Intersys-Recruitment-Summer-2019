@@ -1,0 +1,11 @@
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\obj\Debug\netcoreapp2.1\FindingPrimes.csprojAssemblyReference.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\obj\Debug\netcoreapp2.1\FindingPrimes.csproj.CoreCompileInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\obj\Debug\netcoreapp2.1\FindingPrimes.AssemblyInfoInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\obj\Debug\netcoreapp2.1\FindingPrimes.AssemblyInfo.cs
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\bin\Debug\netcoreapp2.1\FindingPrimes.deps.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\bin\Debug\netcoreapp2.1\FindingPrimes.runtimeconfig.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\bin\Debug\netcoreapp2.1\FindingPrimes.runtimeconfig.dev.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\bin\Debug\netcoreapp2.1\FindingPrimes.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\bin\Debug\netcoreapp2.1\FindingPrimes.pdb
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\obj\Debug\netcoreapp2.1\FindingPrimes.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_5_Finding_primes\FindingPrimes\FindingPrimes\obj\Debug\netcoreapp2.1\FindingPrimes.pdb

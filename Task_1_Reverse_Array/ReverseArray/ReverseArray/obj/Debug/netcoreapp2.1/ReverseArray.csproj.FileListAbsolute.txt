@@ -1,0 +1,10 @@
+C:\Users\specu\Desktop\Intersys Recruitment\Task_1_Reverse_Array\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.deps.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_1_Reverse_Array\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.runtimeconfig.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_1_Reverse_Array\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.runtimeconfig.dev.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_1_Reverse_Array\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_1_Reverse_Array\ReverseArray\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.pdb
+C:\Users\specu\Desktop\Intersys Recruitment\Task_1_Reverse_Array\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_1_Reverse_Array\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_1_Reverse_Array\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.AssemblyInfo.cs
+C:\Users\specu\Desktop\Intersys Recruitment\Task_1_Reverse_Array\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_1_Reverse_Array\ReverseArray\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.pdb

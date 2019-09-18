@@ -1,0 +1,11 @@
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\obj\Debug\netcoreapp2.1\Digit_Sum.csprojAssemblyReference.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\obj\Debug\netcoreapp2.1\Digit_Sum.csproj.CoreCompileInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\obj\Debug\netcoreapp2.1\Digit_Sum.AssemblyInfoInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\obj\Debug\netcoreapp2.1\Digit_Sum.AssemblyInfo.cs
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\bin\Debug\netcoreapp2.1\Digit_Sum.deps.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\bin\Debug\netcoreapp2.1\Digit_Sum.runtimeconfig.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\bin\Debug\netcoreapp2.1\Digit_Sum.runtimeconfig.dev.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\bin\Debug\netcoreapp2.1\Digit_Sum.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\bin\Debug\netcoreapp2.1\Digit_Sum.pdb
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\obj\Debug\netcoreapp2.1\Digit_Sum.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_9_Digit_Sum\Digit_Sum\Digit_Sum\obj\Debug\netcoreapp2.1\Digit_Sum.pdb

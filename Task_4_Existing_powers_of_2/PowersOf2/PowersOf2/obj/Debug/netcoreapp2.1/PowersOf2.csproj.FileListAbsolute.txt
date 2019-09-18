@@ -1,0 +1,11 @@
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\obj\Debug\netcoreapp2.1\PowersOf2.csprojAssemblyReference.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\obj\Debug\netcoreapp2.1\PowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\obj\Debug\netcoreapp2.1\PowersOf2.AssemblyInfoInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\obj\Debug\netcoreapp2.1\PowersOf2.AssemblyInfo.cs
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\bin\Debug\netcoreapp2.1\PowersOf2.deps.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\bin\Debug\netcoreapp2.1\PowersOf2.runtimeconfig.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\bin\Debug\netcoreapp2.1\PowersOf2.runtimeconfig.dev.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\bin\Debug\netcoreapp2.1\PowersOf2.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\bin\Debug\netcoreapp2.1\PowersOf2.pdb
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\obj\Debug\netcoreapp2.1\PowersOf2.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_4_Existing_powers_of_2\PowersOf2\PowersOf2\obj\Debug\netcoreapp2.1\PowersOf2.pdb

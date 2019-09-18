@@ -1,0 +1,10 @@
+C:\Users\specu\Desktop\Intersys Recruitment\Task_3_Permutation\Permutation\Permutation\bin\Debug\netcoreapp2.1\Permutation.deps.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_3_Permutation\Permutation\Permutation\bin\Debug\netcoreapp2.1\Permutation.runtimeconfig.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_3_Permutation\Permutation\Permutation\bin\Debug\netcoreapp2.1\Permutation.runtimeconfig.dev.json
+C:\Users\specu\Desktop\Intersys Recruitment\Task_3_Permutation\Permutation\Permutation\bin\Debug\netcoreapp2.1\Permutation.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_3_Permutation\Permutation\Permutation\bin\Debug\netcoreapp2.1\Permutation.pdb
+C:\Users\specu\Desktop\Intersys Recruitment\Task_3_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.csproj.CoreCompileInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_3_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.AssemblyInfoInputs.cache
+C:\Users\specu\Desktop\Intersys Recruitment\Task_3_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.AssemblyInfo.cs
+C:\Users\specu\Desktop\Intersys Recruitment\Task_3_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.dll
+C:\Users\specu\Desktop\Intersys Recruitment\Task_3_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.pdb
